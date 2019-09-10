@@ -143,10 +143,12 @@ Où se situe le programme ls?
 
 <li>Que fait la commande echo 'yo' > plop exécutée 2 fois ?</li>
 
-*sa écrit/ affiche echo dans le ficchier redirige et l'écrase si existe*
+*sa écrit/ affiche echo dans le ficchier redirige et ne l'écrase pas  si existe (écris a la ligne)*
+*ecris mais sa n'efface pas se qu'il y avais avant*
 
 <li> Que fait la commande echo 'yo' >> plop exécutée 2 fois ?</li>
 *sa écrit/ affiche echo dans le ficchier redirige puis redirigier dans le dossier d'après  et l'écrase si existe*
+*ecris mais sa efface se qu'il y avais avant*
 
 <li>A quoi sert la commande file ? Essayez la sur des fichiers de types différents</li>
 *Fonction : déterminer le type de fichier*
